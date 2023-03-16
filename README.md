@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![My Video Walk Through](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRmOTBkMDNjMDQ1MzE5YWFjNDdiMTAwOGVmYzIzNzlkZjlhODM2NCZjdD1n/WKgadkOXsxL60C7z4I/giphy.gif)
+![My Video Walk Through](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU4ZmU1NDMwYmI4YzdhOTc3MzAzMTE5ZTQ0NzI4OTE0ZmU4ZjU1OSZjdD1n/hNzmF9jGT60gn7ZOKq/giphy.gif)
 
 ## Notes
 
